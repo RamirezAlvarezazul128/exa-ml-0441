@@ -1,3 +1,5 @@
+# Ramirez Azul NL=48 ,NC 0441
+
 import io
 import os
 import sys
@@ -72,4 +74,5 @@ with open(ruta_archivo_md, "w", encoding="utf-8") as f:
     f.write("\n".join(contenido_md))
 
 print(f"\n[ÉXITO] Archivo generado correctamente en: {ruta_archivo_md}")
+
 print("Ramirez Azul Machine Learning pandas,NL=48 NC 0441")
